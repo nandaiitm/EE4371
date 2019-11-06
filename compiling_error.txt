@@ -1,0 +1,4 @@
+C:\Users\Kishore\Desktop\cpp files\main.cpp:2:19: fatal error: cstudio: No such file or directory
+ #include <cstudio>
+                   ^
+compilation terminated.
